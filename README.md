@@ -1,7 +1,7 @@
 activerecord6-redshift-adapter
 ==============================
 
-Amazon Redshift adapter for ActiveRecord 6 (Rails 6).
+Amazon Redshift adapter for ActiveRecord 6 (Rails 6) and ActiveRecord 7 (Rails 7).
 I cloned the project from ConsultingMD/activerecord5-redshift-adapter.
 
 The Redshift driver for previous ActiveRecord versions already exist:
